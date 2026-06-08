@@ -45,3 +45,20 @@ dimension is traceable to the NEMA-17 specification, not chosen arbitrarily.
 
 <img width="1280" height="720" alt="NEMA-17 motor L Bracket drawing design" src="https://github.com/user-attachments/assets/361994d3-aa22-4195-9cb0-479c4dc834a7" />
 <img width="1280" height="720" alt="NEMA-17 motor L Bracket design" src="https://github.com/user-attachments/assets/28d64d96-0449-45e0-904d-8aaa5b1c42fd" />
+
+### Fit Verification (Assembly)
+
+To verify the bracket actually accepts a NEMA-17, I modeled a simplified
+NEMA-17 motor (accurate mounting interface: 42 mm faceplate, Ø22 mm pilot
+boss, 31 mm bolt pattern, M3 holes; body simplified, internals omitted) and
+mated it to the bracket in an assembly.
+
+Result: the pilot boss seats into the Ø23 mm bore (1 mm clearance confirmed
+visually), the motor faceplate sits flush against the bracket face, and the
+four mounting holes align through both parts. The assembly is fully defined.
+
+This confirms the bracket's mounting interface matches the NEMA-17
+specification — the design is verified by fit, not just dimensioned to spec.
+
+<img width="1280" height="1234" alt="NEMA-17 motor simplified design" src="https://github.com/user-attachments/assets/7bd844fb-9744-460e-9f48-9da85ce6b9fa" />
+<img width="1280" height="1016" alt="NEMA-17 motor   L Bracket assembly design" src="https://github.com/user-attachments/assets/8d52864c-2917-4dcd-8a53-0bf6ba322ff9" />
