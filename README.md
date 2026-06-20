@@ -1,5 +1,3 @@
-# CAD-Projects
-Documenting my CAD projects and drawings in both SolidWorks and Fusion 360
 # CAD Projects
 
 Self-directed SolidWorks and CAD work as part of my Applied Manufacturing
